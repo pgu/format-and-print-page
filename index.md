@@ -1,6 +1,6 @@
 ## Add content, format and print
 
-Examples:
+Examples of pages built with the editor:
 
 1. Text only with kana
 
