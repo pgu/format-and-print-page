@@ -1,4 +1,4 @@
-## Add content, format and print
+## Add content, format in grid and print
 
 Examples of pages built with the editor:
 
