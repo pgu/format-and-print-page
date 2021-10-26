@@ -1,3 +1,7 @@
+## Editor
+
+[Go to editor online](https://grid-page.netlify.app/)
+
 ## Add content, format in grid and print
 
 Examples of pages built with the editor:
@@ -21,10 +25,6 @@ Examples of pages built with the editor:
    ![Image](./resources/kana-wiki.jpg)
 
    [PDF version](./resources/kana-wiki.pdf)
-
-## Editor
-
-TODO
 
 ## Made possible by...
 
