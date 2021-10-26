@@ -2,7 +2,7 @@
 
 [Go to editor online](https://grid-page.netlify.app/)
 
-## Add content, format in grid and print
+## Add data, format in a grid and print
 
 Examples of pages built with the editor:
 
