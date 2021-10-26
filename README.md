@@ -1,2 +1,2 @@
 # format-and-print-page
-Format information and print page
+Format data in a grid and print page
