@@ -25,6 +25,11 @@ Examples of pages built with the editor:
    ![Image](./resources/kana-wiki.jpg)
 
    [PDF version](./resources/kana-wiki.pdf)
+   
+4. Other possible example...
+
+   ![Image](./resources/other-possible-example.png)
+
 
 ## Made possible by...
 
